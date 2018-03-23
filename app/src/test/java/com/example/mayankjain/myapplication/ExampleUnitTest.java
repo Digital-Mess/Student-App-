@@ -1,4 +1,4 @@
-package com.example.mayankjain.fragments;
+package com.example.mayankjain.myapplication;
 
 import org.junit.Test;
 
